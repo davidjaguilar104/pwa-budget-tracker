@@ -13,5 +13,5 @@ You can use the site on the web and in the url bar you will also be able to down
      
 ## Application
 
-[Use the Budget Tracker!](https://glacial-coast-25788.herokuapp.com/)
+[Use the Budget Tracker!](https://fast-taiga-23020.herokuapp.com/)
 ![alt text](budget-tracker.png)
